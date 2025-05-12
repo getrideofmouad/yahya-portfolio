@@ -1,0 +1,20 @@
+{
+  "name": "simplefolio",
+  "version": "1.0.1",
+  "description": "Simple portfolio website",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.4",
+    "parcel": "^2.14.4",
+    "prettier": "^2.8.8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "vanilla-tilt": "^1.8.1"
+  }
+}
